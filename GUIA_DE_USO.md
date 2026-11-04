@@ -26,17 +26,18 @@ Apresentação completa de identidade de marca e manual de diretrizes para **A C
 - **Slide 09:** 07 , Retrato da moradora
 - **Slide 10:** 08 , Sensações que a Casa despertará
 - **Slide 11:** 09 , DNA da marca (Personalidade & Frases que carregam o DNA)
-- **Slide 12:** 10 , Bandeiras & Manifesto da Casa
-- **Slide 13:** 11 , Posicionamento (Diferenciais, O que a Casa não é, Para empresas)
-- **Slide 14:** 12 , Voz e linguagem (Tom por contexto, Vocabulário, Regras de escrita, Na prática)
-- **Slide 15:** 13 , Os cômodos da Casa (Sala de Estar, Cozinha, Quarto do Bebê, Ateliê, Biblioteca, Porão, Suíte, Quintal, Jardim)
-- **Slide 16:** 14 , Pontos de contato com a marca (Papel e diretriz de cada canal)
-- **Slide 17:** 15 , Identidade Visual & Tipografia
-- **Slide 18:** 16 , Paleta de Cores Institucionais
-- **Slide 19:** 17 , Logomarca Principal
-- **Slide 20:** 18 , Assinatura Horizontal da Marca
-- **Slide 21:** 19 , Universo Visual e Aplicações em Mockups (Galeria com vídeo 1080p nativo)
-- **Slide 22:** 20 , Encerramento (*"Traga sua mala. Pode entrar."*)
+- **Slide 12:** 09 , Bandeiras da Casa (Tabela editorial completa)
+- **Slide 13:** 10 , Manifesto da Casa (Página exclusiva, fundo Verde Floresta #14523E, tipografia Cachoeira Feiticeira, texto centralizado em alto contraste)
+- **Slide 14:** 11 , Posicionamento (Diferenciais, O que a Casa não é, Para empresas)
+- **Slide 15:** 12 , Voz e linguagem (Tom por contexto, Vocabulário, Regras de escrita, Na prática)
+- **Slide 16:** 13 , Os cômodos da Casa (Sala de Estar, Cozinha, Quarto do Bebê, Ateliê, Biblioteca, Porão, Suíte, Quintal, Jardim)
+- **Slide 17:** 14 , Pontos de contato com a marca (Papel e diretriz de cada canal)
+- **Slide 18:** 15 , Identidade Visual & Tipografia (Cachoeira Feiticeira & Gest Grotesk)
+- **Slide 19:** 16 , Paleta de Cores Institucionais
+- **Slide 20:** 17 , Logomarca Principal
+- **Slide 21:** 18 , Assinatura Horizontal da Marca
+- **Slide 22:** 19 , Universo Visual e Aplicações em Mockups (Galeria com vídeo 1080p nativo)
+- **Slide 23:** 20 , Encerramento (*"Traga sua mala. Pode entrar."*)
 
 ---
 

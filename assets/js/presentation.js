@@ -221,12 +221,20 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }, { passive: true });
 
-  // 6. Sumário Interativo (Pulo direto de slide)
+  // 6. Sumário Interativo (Pulo direto de slide com suporte a ID e índice)
   document.querySelectorAll('.index-item').forEach(item => {
     item.addEventListener('click', (e) => {
       e.stopPropagation();
       const targetSlide = item.getAttribute('data-target');
       if (targetSlide !== null) {
+        const targetEl = document.getElementById(targetSlide.replace('#', ''));
+        if (targetEl) {
+          const idx = Array.from(slides).indexOf(targetEl);
+          if (idx !== -1) {
+            goToSlide(idx);
+            return;
+          }
+        }
         const targetIndex = parseInt(targetSlide, 10);
         if (!isNaN(targetIndex)) {
           goToSlide(targetIndex);
