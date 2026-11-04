@@ -586,3 +586,11 @@
 .font-gest, .spec-gest {
   font-family: 'Gest Grotesk', 'Geist', 'Host Grotesk', -apple-system, sans-serif !important;
 }
+
+/* Ícone Vetorial da Marca com Máscara Dinâmica */
+.brand-icon-mask {
+  display: inline-block;
+  background-color: currentColor;
+  -webkit-mask: url('../img/icone.svg') no-repeat center / contain;
+  mask: url('../img/icone.svg') no-repeat center / contain;
+}
