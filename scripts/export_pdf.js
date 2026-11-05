@@ -122,7 +122,7 @@ const server = http.createServer((req, res) => {
           }, gIdx);
 
           // Give a short moment for video frame or image rendering
-          await new Promise(r => setTimeout(r, 400));
+          await new Promise(r => setTimeout(r, 500));
           await page.screenshot({ path: imgPath });
           capturedImages.push(imgPath);
           console.log(`Captured [${slideNum}] Mockup ${gIdx + 1}/${galleryCount}`);
@@ -157,7 +157,7 @@ const server = http.createServer((req, res) => {
           }
         }, i);
 
-        await new Promise(r => setTimeout(r, 300));
+        await new Promise(r => setTimeout(r, 500));
         await page.screenshot({ path: imgPath });
         capturedImages.push(imgPath);
         console.log(`Captured [${slideNum}] Slide: ${meta.id}`);
